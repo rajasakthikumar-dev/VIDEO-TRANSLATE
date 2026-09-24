@@ -361,7 +361,7 @@ Successful processing displays logs similar to:
 ✅ Translated:
 "Hola, ¿cómo estás?"
 
-📤 Translation Sent
+📤 Translation Sent..
 
 ✅ Processing Complete
 ```
