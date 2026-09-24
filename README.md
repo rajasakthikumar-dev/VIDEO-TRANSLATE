@@ -59,7 +59,7 @@ Now you'll see:
    File: temp_xxx.wav
    Size: 78471 bytes
 📝 Transcribed: "Hello, how are you?"
-🔄 Translating to Spanish...
+🔄 Translating to Spanish.....
 ✅ Translated to Spanish: "Hola, ¿cómo estás?"
 ```
 
